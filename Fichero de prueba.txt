@@ -1,0 +1,2 @@
+Este es el primer commit de la prueba de rebase squash.
+Este es el segundo commit de la prueba de rebase squash. 
